@@ -1,0 +1,12 @@
+
+Jsquid:S2209"5Change this instance-reference to a static reference.(¸ÕÑç
+Asquid:S1905"'Remove this unnecessary cast to "Appt".(¹É‚ñùÿÿÿÿ
+@squid:S1452"&Remove usage of generic wildcard type.(ÛÛÏÎıÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(šÌ´ùÿÿÿÿ
+Xsquid:HiddenFieldCheck"8Rename "year" which hides the field declared at line 36.(¸ÕÑç
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉğĞô
+Jsquid:S2209"5Change this instance-reference to a static reference.(Ø¥Ğ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Óù®”
+Wsquid:HiddenFieldCheck"7Rename "day" which hides the field declared at line 30.(Ø¥Ğ
+^squid:HiddenFieldCheck"9Rename "month" which hides the field declared at line 33.(šÌ´ùÿÿÿÿ
+†squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(†İæÚ

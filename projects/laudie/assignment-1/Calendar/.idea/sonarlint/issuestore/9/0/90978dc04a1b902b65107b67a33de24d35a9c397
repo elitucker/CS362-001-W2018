@@ -1,0 +1,11 @@
+
+Fsquid:S1444"1Make this "public static DaysInMonth" field final(»Ì¡æ
+ƒ"squid:ClassVariableVisibilityCheck"WMake DaysInMonth a static final constant or non-public and provide accessors if needed.(»Ì¡æ
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(¿ˆ‹¨
+Msquid:S1197"8Move the array designator from the variable to the type.(»Ì¡æ
+ksquid:S3008"VRename this field "DaysInMonth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ì¡æ
+Usquid:S1126"AReplace this if-then-else statement by a single return statement.(­şáN
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(†×›ıÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ó‹›ûÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õù
+2squid:S2386"Make this member "protected".(»Ì¡æ
