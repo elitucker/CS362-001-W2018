@@ -1,0 +1,12 @@
+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼€‘
+}squid:S1488"hImmediately return this expression instead of assigning it to the temporary variable "represntationApp".(Ä‹¬¿
+;squid:S1905"'Remove this unnecessary cast to "Appt".(“ùØ
+<squid:S1905"'Remove this unnecessary cast to "Appt".(‰Ó”
+;squid:S1905"'Remove this unnecessary cast to "Appt".(‰€× 
+nsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Åµÿ
+<squid:S1905"'Remove this unnecessary cast to "Appt".(Ý¤Ûà
+1squid:S2225"Return empty string instead.(¥¹ï
+_squid:HiddenFieldCheck"?Rename "startMinute" which hides the field declared at line 27.(‰Ó”
+\squid:HiddenFieldCheck"=Rename "startHour" which hides the field declared at line 24.(‰€× 
+<squid:S1905"'Remove this unnecessary cast to "Appt".(¼¢‡ô
