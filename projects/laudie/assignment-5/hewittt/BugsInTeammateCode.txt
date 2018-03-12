@@ -1,0 +1,5 @@
+Appt.java: line 172
+	if (description != null) should be if (description == null)
+
+TimeTable.java: line 48
+	calDays should add a new Calday(nextDay) not a new Calday(lastDay)
